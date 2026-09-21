@@ -1,5 +1,4 @@
 -- MM2
--- loadstring(game:HttpGet("https://raw.githubusercontent.com/Kleitnick/Iris-X/refs/heads/main/loader.lua"))()
 
 local IrisX = loadstring(game:HttpGet("https://raw.githubusercontent.com/Kleitnick/Iris-X/refs/heads/main/loader.lua"))()
 local win = IrisX:CreateWindow({Title = "MM2", Size = Vector2.new(420, 560), Theme = "light"})
